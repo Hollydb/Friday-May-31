@@ -35,6 +35,7 @@ img{
   border-radius: 25px;
   background-color: #063336;
   margin-bottom: 30px;
+  margin-top:10px;
 }
 .info{
   font-size:14px;
@@ -46,4 +47,7 @@ img{
 }
 .margins{
   margin:60px;
+}
+.well{
+  margin-bottom: 30px;
 }
