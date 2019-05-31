@@ -5,7 +5,8 @@ h1 {
 
 h2 {
   color: #EB4E57;
-  font-family:cursive;
+  font-family:Helvetica;
+  text-decoration: underline overline;
 }
 
 body{
@@ -15,7 +16,7 @@ body{
 .col-md-7{
   background-color: #F27F60;
   border:#063336 solid 10px;
-  padding: 5px;
+  padding: 10px;
 }
 
 img{
@@ -34,3 +35,7 @@ img{
 .info{
   font-size:14px;
 }
+.cats{
+  color: #B9A66C;
+  size: 14px;
+]
