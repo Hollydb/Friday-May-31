@@ -3,18 +3,27 @@ h1 {
   color: #063336;
 }
 
-h2 {color: #548E8B;}
+h2 {color: #EB4E57;}
 
 body{
-  background-color: #B9A66C;
+  background-color: #548E8B;
 }
 
-.info{
-  font-family: arial, sans-serif;
+.col-md-8{
+  background-color: #F27F60;
+  border:#063336 solid 10px;
+  padding: 5px;
 }
 
 img{
   height: 300px;
   width: 320px;
   float: right;
+  
+}
+.col-md-4{
+  text-align:center;
+  border:#063336 solid 10px;
+  border-radius: 25px;
+  background-color: #063336
 }
