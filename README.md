@@ -1,15 +1,15 @@
-# Friday, May 31 Code Review
+# _Friday, May 31 Code Review_
 
-###By: Holly DeBelser
+###_By: Holly DeBelser_
 
-####About
+####_About_
 This code is to create an about me webpage for my portfolio.  It includes one .html file, a style sheet and a bootstrap.css.
 
-####Instructions
+####_Instructions_
 To view open in browser
 
-####Links
-****add link******
+####_Links_
+https://hollydb.github.io/Friday-May-31/
 
 Licensed under MIT license
 Copyright (c) Holly DeBelser 2019
