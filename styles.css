@@ -8,3 +8,13 @@ h2 {color: #548E8B;}
 body{
   background-color: #B9A66C;
 }
+
+.info{
+  font-family: arial, sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 320px;
+  float: right;
+}
